@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Egor from SPB<br><br>- 🔭 I’m a Software Engineering student.<br>- 📚 I'm currently learning  Design Patterns and DevOps-related tools.<br>- ⚡ In my free time I research some information related to IT i'm interested in, learn new languages and listen to music.</p>
+<p align="left">I'm Egor from SPB<br><br>- 🔭 I’m a Software Engineering student.<br>- 📚 I'm currently learning  Design Patterns and DevOps-related tools.<br>- ⚡ In my free time I research some information related to IT I'm interested in, learn new languages and listen to music.</p>
 
 ###
 
