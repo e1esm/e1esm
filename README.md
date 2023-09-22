@@ -86,5 +86,4 @@
 <h3 align="left">🎹 Recently played music</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dxt4q16f1oeh2df1c9m7aztqz)
-
 ###
