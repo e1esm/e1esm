@@ -1,85 +1,64 @@
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-5ab4a3244" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/el-esm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://t.me/el_esm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:elesmdev1102@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:e.mikhaylov.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/e1esm/count.svg?"  />
+    <img src="https://profile-counter.deno.dev/e1esm/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
-###
+<h1 align="center">Hey there 👋</h1>
 
-<h1 align="center">hey there 👋</h1>
+## 👨‍💻 About Me
 
-###
+Hi, I’m Egor 👋
 
-<h3 align="left">👩‍💻  About Me</h3>
+A backend engineer with 3+ years of experience building scalable microservices and distributed systems in the InfoSec and MedTech industries.
 
-###
+I specialize in Go, Java, and cloud-native architectures with Kubernetes, Kafka, RabbitMQ, and PostgreSQL.
 
-<p align="left">I'm Egor from SPB<br><br>- 🔭 I’m a Software Engineering student.<br>- 📚 I'm currently learning  Design Patterns and DevOps-related tools.<br>- ⚡ In my free time I research some information related to IT I'm interested in, learn new languages and listen to music.</p>
+I’m passionate about:
 
-###
+✨ understanding how systems work under the hood
 
-<h3 align="left">🛠 Language and tools</h3>
+✨ solving complex engineering problems
 
-###
+✨ mentoring and sharing knowledge with my team
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+Outside of tech, I enjoy exploring new ideas and listening to music. 🎧
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+Always learning. Always building. 🚀
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e1esm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=e1esm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
+
+
+
 </div>
 
-###
+---
 
+## 🔥 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e1esm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="250" />
+  <img src="https://streak-stats.demolab.com?user=e1esm&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
 
-###
-
-<h3 align="left">🎹 Recently played music</h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dxt4q16f1oeh2df1c9m7aztqz&unique=true)
-###
+---
