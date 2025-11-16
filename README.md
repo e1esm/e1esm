@@ -39,7 +39,7 @@ Outside of tech, I enjoy exploring new ideas and listening to music. 🎧
 Always learning. Always building. 🚀
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
